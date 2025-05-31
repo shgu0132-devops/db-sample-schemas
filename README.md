@@ -1,4 +1,5 @@
 # Oracle Database Sample Schemas
+# on a forked repository with account shgu0132
 
 ## 1. Introduction
 
